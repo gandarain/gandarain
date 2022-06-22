@@ -9,5 +9,3 @@
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:gandarainpanjaitan@gmail.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gandarain&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandarain&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
