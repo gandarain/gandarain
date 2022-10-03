@@ -1,3 +1,4 @@
+[![@gandarain's Holopin board](https://holopin.io/api/user/board?user=gandarain)](https://holopin.io/@gandarain)
 
 <h1 align="center"> Hello, I'm Ganda Rain Panjaitan</h1>
 <h3 align="center">Software Developer</h3>
@@ -11,5 +12,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gandarain&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandarain&theme=tokyonight&layout=compact&hide=html,php,hack,css,TeX)
-
-[![@gandarain's Holopin board](https://holopin.io/api/user/board?user=gandarain)](https://holopin.io/@gandarain)
