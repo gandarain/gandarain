@@ -12,3 +12,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gandarain&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandarain&theme=tokyonight&layout=compact&hide=html,php,hack,css,TeX)
+
+![Visitor Count](https://profile-counter.glitch.me/gandarain/count.svg)
