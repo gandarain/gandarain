@@ -14,3 +14,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandarain&theme=tokyonight&layout=compact&hide=html,php,hack,css,TeX)
 
 ![Visitor Count](https://profile-counter.glitch.me/gandarain/count.svg)
+
+![Snake animation](https://github.com/gandarain/gandarain/blob/output/github-contribution-grid-snake.svg)
