@@ -23,9 +23,3 @@ Github Stats | Top Langs
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gandarain&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandarain&theme=tokyonight&layout=compact&hide=html,php,hack,css,TeX)
 
 </div>
-
-<div align="center">
-
-  <img src="https://github.com/gandarain/gandarain/assets/27923352/d93becb4-a598-45ed-a173-3953fdf4a8e3" width="80%" height="250">
-  
-</div>
