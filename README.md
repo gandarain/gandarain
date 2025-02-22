@@ -12,7 +12,7 @@
     - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ganda-rain-panjaitan-49aa18162/)
     - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:gandarainpanjaitan@gmail.com)
     - [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=Stackoverflow&logoColor=white&link=)](https://stackoverflow.com/users/11513854/ganda-rain-panjaitan)
-    - [![Limey Badge](https://img.shields.io/badge/limey-Limey-green)](https://limey.io/gandarainpanjaitan)
+    - [![Website_Personal](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)]([https://shields.io/](https://www.gandarainpanjaitan.com/))
 
 </div>
 
