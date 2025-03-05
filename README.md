@@ -1,7 +1,7 @@
 [![@gandarain's Holopin board](https://holopin.io/api/user/board?user=gandarain)](https://holopin.io/@gandarain)
 
 <h1 align="center"> Hello, I'm Ganda Rain Panjaitan</h1>
-<h3 align="center">Digital Banking Solution Developer</h3>
+<h3 align="center">Digital Banking Solution Developer FE</h3>
 
 <div align="left">
   
