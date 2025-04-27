@@ -5,7 +5,7 @@
 
 <div align="left">
   
-  - I’m currently working on <b>Jenius App</b>
+  - I’m currently working on <b>Jenius</b> and <b>Jenius Daya</b> mobile application.
   - <b>Learning</b> : Flutter
   - <b>Skills</b> : JavaScript, TypeScript, Kotlin, React Native, React JS, PHP, Codeigniter
   - <b>How to reach me<b/> :
