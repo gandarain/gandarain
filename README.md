@@ -7,7 +7,7 @@
   
   - I’m currently working on <b>Jenius</b> and <b>Jenius Daya</b> mobile application.
   - <b>Learning</b> : Flutter
-  - <b>Skills</b> : JavaScript, TypeScript, Kotlin, React Native, React JS, PHP, Codeigniter
+  - <b>Skills</b> : JavaScript, TypeScript, React Native, React JS, Kotlin, PHP, Codeigniter
   - <b>How to reach me<b/> :
     - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ganda-rain-panjaitan-49aa18162/)
     - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:gandarainpanjaitan@gmail.com)
