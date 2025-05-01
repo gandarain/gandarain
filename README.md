@@ -27,9 +27,9 @@
 - Continuously learning and exploring.
 
 ## 🛠 Tech Stack
-- **Languages:** JavaScript, TypeScript, Kotlin, PHP
-- **Frameworks:** React Native, React.js, CodeIgniter
-- **Tools & Platforms:** Visual Studio Code, Android Studio, Xcode, Git & GitHub, Postman, Firebase, Core UI
+- **Languages:** JavaScript, TypeScript, Kotlin, and PHP.
+- **Frameworks:** React Native, React.js, and CodeIgniter.
+- **Tools & Platforms:** Visual Studio Code, Android Studio, Xcode, Git & GitHub, Postman, Firebase, and Core UI.
 
 ## 📈 GitHub Insights
 
