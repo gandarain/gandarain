@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 About Me
-- Currently contributing to **Jenius** and **Jenius Daya** mobile applications.
+- Currently develop **Jenius** and **Jenius Daya** mobile applications.
 - Passionate about building intuitive, high-quality mobile experiences.
 - Continuously learning and exploring.
 
