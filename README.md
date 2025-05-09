@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 - Currently develop **Jenius** and **Jenius Daya** mobile applications.
-- Passionate about building intuitive, high-quality mobile experiences.
+- Passionate about building intuitive and high-quality mobile experiences.
 - Continuously learning and exploring.
 
 ## 🛠 Tech Stack
